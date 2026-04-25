@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Claude Code local state
+.claude/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
